@@ -1,3 +1,13 @@
+/**
+ * Problem:
+ * Implement makeCounter() that returns a function.
+ * Each call to the returned function should increment
+ * and return a private counter value.
+ *
+ * Create a counter and call it multiple times to verify
+ * that the value persists across calls.
+ */
+
 function makeCounter(start = 0) {
   let count = start;
   return {
