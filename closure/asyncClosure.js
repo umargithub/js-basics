@@ -1,5 +1,3 @@
-now give me problem statement like this
-
 /**
  * Problem:
  * Implement createLogger(prefix, level) using closures.
